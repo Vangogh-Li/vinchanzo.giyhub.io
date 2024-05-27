@@ -1,5 +1,6 @@
 # vinchanzo.giyhub.io
 
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -29,7 +30,6 @@
             height: 42px;
             line-height: 42px;
             padding-left: 30px;
-
             box-sizing: border-box;
         }
         .slide ul li a{
@@ -57,7 +57,7 @@
         }
     </style>
 
-    
+
 </head>
 <body>
     <div class="slide">
@@ -90,4 +90,4 @@
     </div>
 
 </body>
-</html>
+</html> 
